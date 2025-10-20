@@ -97,3 +97,11 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# OpenCV plugin binaries
+Assets/OpenCV+Unity/Plugins/**/*.a
+Assets/OpenCV+Unity/Plugins/**/*.dll
+Assets/OpenCV+Unity/Plugins/**/*.so
+Assets/OpenCV+Unity/Plugins/**/*.bundle
+Assets/OpenCV+Unity/Plugins/**/*.dylib
+Assets/OpenCV+Unity/Demo/
